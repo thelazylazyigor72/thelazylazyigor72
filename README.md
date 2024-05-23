@@ -1,9 +1,9 @@
 # About Me:
-Junior Frontend Developer, currently working as Software Engineer at the Moscow Aviation Institute.
+Junior Frontend Developer, currently working as Software Enginer at the Moscow Aviation Institute.
 # Portfolio 
 Here's my study projects which are showing off what I'm capable of. Every project have proper readme, which represents idea, tech stack and local deployment settings.
 
-There you go (this list goes from top to bottom by difficulty decreasing): 
+There you go (this list goes from top to bottom by difficulty decreasing):
 
 - [WeatherApp](https://github.com/thelazylazyigor72/WeatherApp)
 - [FocusApp](https://github.com/thelazylazyigor72/FocusApp)
